@@ -13,4 +13,5 @@ Tiege Sun:One of the co-developers. Mainly responsible for later optimization an
 
 Features that were implemented
 ![微信截图_20240423192956](https://github.com/TiegeSun/111/assets/167867356/011c3f45-1c9a-4ea9-9fef-d5d74a6f8c32)
-![Uploading 111.jpg…]()
+
+![111](https://github.com/TiegeSun/111/assets/167867356/03877e5e-a02c-42ab-b2c6-85c80fcdc213)
