@@ -9,9 +9,15 @@ Class diagram
 Division of labour between team members
 
 Keshuo Wang:
+000964971
+
+Keshuo.Wang@student.lut.fi
 One of the co-developers. Mainly responsible for the early framework construction. Search pages, information gathering, etc.
 
 Tiege Sun:
+000824561
+
+Tiege.Sun@student.lut.fi
 One of the co-developers. Mainly responsible for later optimization and debugging, data pages, etc.
 
 Features that were implemented
