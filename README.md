@@ -8,8 +8,11 @@ Class diagram
 
 Division of labour between team members
 
-Keshuo Wang:One of the co-developers. Mainly responsible for the early framework construction. Search pages, information gathering, etc.
-Tiege Sun:One of the co-developers. Mainly responsible for later optimization and debugging, data pages, etc.
+Keshuo Wang:
+One of the co-developers. Mainly responsible for the early framework construction. Search pages, information gathering, etc.
+
+Tiege Sun:
+One of the co-developers. Mainly responsible for later optimization and debugging, data pages, etc.
 
 Features that were implemented
 
